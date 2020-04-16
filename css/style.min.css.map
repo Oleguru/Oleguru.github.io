@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,AAAC,CACH,UAAU,CAAE,KAAK,CACjB,UAAU,CAAE,wBAAwB,CAAC,MAAM,CAAC,YAAgB,CAAC,SAAS,CAAG,AAE7E,AAAA,KAAK,AAAC,CACF,OAAO,CAAE,IAAI,CAAG,AAEpB,AAAA,cAAc,AAAC,CACX,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,UAAU,CAAE,wBAAwB,CAAC,MAAM,CAAC,YAAgB,CAAC,SAAS,CAAG",
+    "sources": [
+        "../sass/style.sass"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
